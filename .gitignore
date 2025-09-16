@@ -1,0 +1,9 @@
+# Go binaries
+portfolio-server
+
+# General Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
